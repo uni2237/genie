@@ -11,12 +11,14 @@
 
 ## Background
  
- 이미지!!! 시작적으로 확, 동영상 추가 
+ 주제 선정 배경   
+ 이미지!!! 시작적으로 확 주목, 동영상 추가 
  
  
 ## Model & Data
-사용한 모델
-
+- 사용한 모델 개념 설명 
+- 원래 모델에서 주제에 맞춰 수정한 내용
+- 데이터 클래스 별 간단 설명
 
 ## Install
 
@@ -28,14 +30,12 @@ $ npm install --global standard-readme-spec
 
 ## 결론
 
-
-```sh
-$ standard-readme-spec
-# Prints out the standard-readme spec
-```
+ 성능 결과 ( 모델 별 결과 비교해도 좋을 듯 )
 
 
-## 기대효과
+## 개선점 & 기대효과
+
+- 더 좋은 데이터를 얻는 다면 성능 극대화 가능
 
 
 ### Contributors
